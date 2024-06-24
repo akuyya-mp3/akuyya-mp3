@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">hey, im akuyya. im from russia<br><br> i dont mind chatting with anyone, but i may be awkward sometimes, feel free to yap about your interests, im all ears!<br><br>visit my <a href="https://akuyyaa.straw.page">strawpage</a>! (please draw something :sob:)</p>
+<p align="center">hey, im akuyya. im from russia<br><br> i dont mind chatting with anyone, but i may be awkward sometimes, feel free to yap about your interests, im all ears!<br><br>i like to draw and edit<br><br>visit my <a href="https://akuyyaa.straw.page">strawpage</a>! (please draw something :sob:)</p>
 
 ###
 
