@@ -35,5 +35,9 @@
 <p align="center">╱|、<br>                          (˚ˎ 。7  <br>                           |、˜〵          <br>                          じしˍ,)ノ</p>
 
 ###
+<div align="center">
+  <img src="https://profile-counter.glitch.me/akuyya-mp3/count.svg?"  />
+</div>
 
+###
 
