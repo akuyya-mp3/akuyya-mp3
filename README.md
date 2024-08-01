@@ -27,8 +27,31 @@
 <p align="center">──⇌••⇋──</p>
 
 ###
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   
+</head>
+<body>
 
-###
+<div class="image-container">
+    <a href="https://burqaboyz.bandcamp.com/album/miami-arab-emirates">
+      <img src="https://images.genius.com/1599269dac6708225ae0a16d203afb91.720x720x1.jpg" alt="Image 1" width="200" hspace="65" >
+    </a>
+    <a href="https://www.youtube.com/playlist?list=PL55Jv4fGPIb9O0WdJDmGfCZz-C_rBiRM5">
+      <img src="https://upload.wikimedia.org/wikipedia/en/9/97/GovernmentPlates.jpg" alt="Image 2" width="200" hspace="65" >
+    </a>
+    <a href="https://jpegmafia.bandcamp.com/album/lp">
+     <img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Jpegmafia_LP%21.jpg/220px-Jpegmafia_LP%21.jpg" width="200" hspace="50" >
+    </a>
+</div>
+
+</body>
+</html>
+<p align="center">──⇌••⇋──</p>
+
 
 <p align="center">╱|、<br>                          (˚ˎ 。7  <br>                           |、˜〵          <br>                          じしˍ,)ノ</p>
 
