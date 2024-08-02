@@ -53,6 +53,16 @@
 
 <p align="center">──⇌••⇋──</p>
 
+ <div align="center">
+    <a href="https://jpegmafia.bandcamp.com/album/i-lay-down-my-life-for-you">
+  <img height="80" src="https://zeus.cooltext.com/images/1f7/1f79eb2af10bfda6cfc93a867321df74185b4e0c.gif" width="500" />
+</div>
+
+<p align="center">──⇌••⇋──</p>
+
+###
+       
+###
 
 <p align="center">╱|、<br>                          (˚ˎ 。7  <br>                           |、˜〵          <br>                          じしˍ,)ノ</p>
 
