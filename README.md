@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center">я акуя <br><br>прошу вас НЕ ВЫНОСИТЬ мне (и моему другу) мозги<br><br>можете чекнуть мой <a href="https://akuyyaa.straw.page/">стровпейж</a> или <a href="https://retrospring.net/@akuyya">ретроспринг</a></p>
+<p align="center">я акуя <br><br>прошу вас НЕ ВЫНОСИТЬ мне мозги<br><br>можете чекнуть мой <a href="https://akuyyaa.straw.page/">стровпейж</a> или <a href="https://retrospring.net/@akuyya">ретроспринг</a></p>
 
 
 
