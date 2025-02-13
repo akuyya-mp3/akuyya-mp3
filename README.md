@@ -4,14 +4,8 @@
 
 ###
 
-<p align="center">я акуя, мне 16 <br><br>прошу вас НЕ ВЫНОСИТЬ мне мозги <br><br>я одинокий чувачок без друзей, такчто пишите наверное?</a></p>
+<p align="center">я акуя, мне 16 <br><br>прошу вас НЕ ВЫНОСИТЬ мне мозги <br><br>я одинокий чувачок без друзей, такчто пишите наверное в висп?</a></p>
 <br>
-
-<div align="center">
-  <a href="t.me/akuyya" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="42" height="30" alt="telegram logo"  />
-  </a>
-</div>
 
 ###
 
